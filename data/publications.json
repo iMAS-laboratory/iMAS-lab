@@ -1,0 +1,653 @@
+[
+  {
+    "id": "j9",
+    "kind": "preprint",
+    "year": "Preprint",
+    "title": "Multi-sensor data fusion for in-situ monitoring and quality control in additive manufacturing: A review",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Yanzhou Fu",
+    "venue": "Preprint in review for submission",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Yanzhou Fu. Multi-sensor data fusion for in-situ monitoring and quality control in additive manufacturing: A review. Preprint in review for submission.",
+    "links": [],
+    "doi": "",
+    "pdf_url": "",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "",
+    "figure_page": null,
+    "source_url": "",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "Exact public PDF could not be verified. Request PDF link uses the lab email."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "j8",
+    "kind": "journal",
+    "year": "2026",
+    "title": "O(n) Local Eigenvalue Modification Procedure for real-time updating of structural digital twins with sub-millisecond-latency performance",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Pete Avitabile, Jacob Dodson, and Adriane G. Moura",
+    "venue": "Mechanical Systems and Signal Processing, 255:114451, 2026",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Pete Avitabile, Jacob Dodson, and Adriane G. Moura. O(n) Local Eigenvalue Modification Procedure for real-time updating of structural digital twins with sub-millisecond-latency performance. Mechanical Systems and Signal Processing, 255:114451, 2026.",
+    "links": [
+      "https://doi.org/10.1016/j.ymssp.2026.114451"
+    ],
+    "doi": "10.1016/j.ymssp.2026.114451",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/Ogunniyi2026OnLocalEigenvalue.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/Ogunniyi2026OnLocalEigenvalue.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Updated the earlier preprint record to the published 2026 article, keeping its original anchor ID."
+    ],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2026 The Authors, published by Elsevier Ltd. Open access under CC BY 4.0."
+  },
+  {
+    "id": "j7",
+    "kind": "journal",
+    "year": "2025",
+    "title": "In situ monitoring of impact-induced capacity loss in structural batteries with flexible electronics",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Subramani Sockalingam, Han Liu, and Simon Laflamme",
+    "venue": "Journal of Power Sources, 659:238417, 2025",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Subramani Sockalingam, Han Liu, and Simon Laflamme. In situ monitoring of impact-induced capacity loss in structural batteries with flexible electronics. Journal of Power Sources, 659:238417, 2025.",
+    "links": [
+      "https://doi.org/10.1016/j.jpowsour.2025.238417"
+    ],
+    "doi": "10.1016/j.jpowsour.2025.238417",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2025SituMonitoringImpact/Ogunniyi2025SituMonitoringImpact.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2025SituMonitoringImpact/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2025SituMonitoringImpact/Ogunniyi2025SituMonitoringImpact.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2025 The Author(s), published by Elsevier B.V. CC BY-NC-ND 4.0, as displayed on PDF page 1."
+  },
+  {
+    "id": "j6",
+    "kind": "journal",
+    "year": "2025",
+    "title": "Simulation-in-the-loop additive manufacturing for real-time structural validation and digital twin development",
+    "authors": "Yanzhou Fu, Austin R. J. Downey, Lang Yuan, Hung-Tien Huang, and Emmanuel A. Ogunniyi",
+    "venue": "Additive Manufacturing, 98:104631, 2025",
+    "citation": "Yanzhou Fu, Austin R. J. Downey, Lang Yuan, Hung-Tien Huang, and Emmanuel A. Ogunniyi. Simulation-in-the-loop additive manufacturing for real-time structural validation and digital twin development. Additive Manufacturing, 98:104631, 2025.",
+    "links": [
+      "https://doi.org/10.1016/j.addma.2024.104631"
+    ],
+    "doi": "10.1016/j.addma.2024.104631",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Fu2025SimulationLoopAdditive/Fu2025SimulationLoopAdditive.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Fu2025SimulationLoopAdditive/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Fu2025SimulationLoopAdditive/Fu2025SimulationLoopAdditive.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2025 Elsevier B.V. All rights reserved, as displayed on PDF page 1. Public author-hosted copy."
+  },
+  {
+    "id": "j5",
+    "kind": "journal",
+    "year": "2024",
+    "title": "In situ assembly enabling adhesive-free bonding of large area electronic sensors to concrete for structural health monitoring",
+    "authors": "Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl",
+    "venue": "Smart Materials and Structures, 33(10):105047, 2024",
+    "citation": "Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. In situ assembly enabling adhesive-free bonding of large area electronic sensors to concrete for structural health monitoring. Smart Materials and Structures, 33(10):105047, 2024.",
+    "links": [
+      "https://doi.org/10.1088/1361-665X/ad7d56"
+    ],
+    "doi": "10.1088/1361-665X/ad7d56",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2024SituAssemblyEnabling/Ogunniyi2024SituAssemblyEnabling.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2024SituAssemblyEnabling/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2024SituAssemblyEnabling/Ogunniyi2024SituAssemblyEnabling.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2024 The Author(s), published by IOP Publishing Ltd. CC BY 4.0; retain author, title, journal, and DOI attribution."
+  },
+  {
+    "id": "j4",
+    "kind": "journal",
+    "year": "2023",
+    "title": "Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events",
+    "authors": "Emmanuel A. Ogunniyi, Claire Drnek, Seong Hyeon Hong, Austin R. J. Downey, Yi Wang, Jason D. Bakos, Peter Avitabile, and Jacob Dodson",
+    "venue": "Mechanical Systems and Signal Processing, 195:110318, 2023",
+    "citation": "Emmanuel A. Ogunniyi, Claire Drnek, Seong Hyeon Hong, Austin R. J. Downey, Yi Wang, Jason D. Bakos, Peter Avitabile, and Jacob Dodson. Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events. Mechanical Systems and Signal Processing, 195:110318, 2023.",
+    "links": [
+      "https://doi.org/10.1016/j.ymssp.2023.110318"
+    ],
+    "doi": "10.1016/j.ymssp.2023.110318",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023RealTimeStructural/Ogunniyi2023RealTimeStructural.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023RealTimeStructural/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023RealTimeStructural/Ogunniyi2023RealTimeStructural.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2023 Elsevier Ltd. All rights reserved, as displayed on PDF page 1. Public author-hosted copy."
+  },
+  {
+    "id": "j3",
+    "kind": "journal",
+    "year": "2023",
+    "title": "Investigation of electrically isolated capacitive sensing skins on concrete to reduce structure/sensor capacitive coupling",
+    "authors": "Emmanuel A. Ogunniyi, Alexander Vereen, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline R. Bennett, William Collins, Hongki Jo, Alexander Henderson, and Paul Ziehl",
+    "venue": "Measurement Science and Technology, 34(5):055113, 2023",
+    "citation": "Emmanuel A. Ogunniyi, Alexander Vereen, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline R. Bennett, William Collins, Hongki Jo, Alexander Henderson, and Paul Ziehl. Investigation of electrically isolated capacitive sensing skins on concrete to reduce structure/sensor capacitive coupling. Measurement Science and Technology, 34(5):055113, 2023.",
+    "links": [
+      "https://doi.org/10.1088/1361-6501/acbb97"
+    ],
+    "doi": "10.1088/1361-6501/acbb97",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023InvestigationElectricallyIsolated/Ogunniyi2023InvestigationElectricallyIsolated.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023InvestigationElectricallyIsolated/figure.jpg",
+    "figure_caption": "Author-hosted scientific figure preview for this paper.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023InvestigationElectricallyIsolated/Ogunniyi2023InvestigationElectricallyIsolated.pdf",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [],
+    "verified_on": "2026-10-13",
+    "rights_note": "© 2023 The Author(s), published by IOP Publishing Ltd. CC BY 4.0; retain author, title, journal, and DOI attribution."
+  },
+  {
+    "id": "j2",
+    "kind": "journal",
+    "year": "2019",
+    "title": "Biodiesel production from palm oil using heterogeneous base catalyst",
+    "authors": "Adeniyi John Adedoyin, Ogunniyi Emmanuel Abiodun, and Okafor Ifeanyichukwu Frank",
+    "venue": "International Journal of Scientific Research in Science, Engineering and Technology, 6(6):80–90, 2019",
+    "citation": "Adeniyi John Adedoyin, Ogunniyi Emmanuel Abiodun, and Okafor Ifeanyichukwu Frank. Biodiesel production from palm oil using heterogeneous base catalyst. International Journal of Scientific Research in Science, Engineering and Technology, 6(6):80–90, 2019.",
+    "links": [
+      "https://doi.org/10.32628/IJSRSET196615"
+    ],
+    "doi": "10.32628/IJSRSET196615",
+    "pdf_url": "https://ijsrset.com/paper/6116.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://ijsrset.com/paper/6116.pdf",
+    "figure_page": null,
+    "source_url": "https://ijsrset.com/home/issue/view/article.php?id=IJSRSET196615",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13",
+    "rights_note": "Publisher article record states Creative Commons Attribution 4.0 International License; copyright (c) IJSRSET."
+  },
+  {
+    "id": "j1",
+    "kind": "journal",
+    "year": "2019",
+    "title": "Design, modeling and fabrication of a portable solar powered suction pump for use in industries and autoclinics",
+    "authors": "Adekoya Oluwaseun Abiodun, Oluwajire Oluwatimilehin Ebenezer, and Ogunniyi Emmanuel Abiodun",
+    "venue": "International Journal of Scientific Research in Science, Engineering and Technology, 6(5):287–297, 2019",
+    "citation": "Adekoya Oluwaseun Abiodun, Oluwajire Oluwatimilehin Ebenezer, and Ogunniyi Emmanuel Abiodun. Design, modeling and fabrication of a portable solar powered suction pump for use in industries and autoclinics. International Journal of Scientific Research in Science, Engineering and Technology, 6(5):287–297, 2019.",
+    "links": [
+      "https://doi.org/10.32628/IJSRSET1196559"
+    ],
+    "doi": "10.32628/IJSRSET1196559",
+    "pdf_url": "https://ijsrset.com/paper/6100.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://ijsrset.com/paper/6100.pdf",
+    "figure_page": null,
+    "source_url": "https://ijsrset.com/IJSRSET1196559",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13",
+    "rights_note": "PDF displays © 2019 IJSRSET. Article-specific reuse license could not be retrieved."
+  },
+  {
+    "id": "c10",
+    "kind": "conference",
+    "year": "2026",
+    "title": "In-situ monitoring of geometric drift and thermo-mechanical modeling toward a digital twin for thin-wall fused filament fabrication",
+    "authors": "Digambar Killedar, Emmanuel Ogunniyi, Yanzhou Fu, Austin Downey, Lang Yuan, and Matthew D. Folsom",
+    "venue": "Multifunctional Materials and Structures II. SPIE, 2026.",
+    "citation": "Digambar Killedar, Emmanuel Ogunniyi, Yanzhou Fu, Austin Downey, Lang Yuan, and Matthew D. Folsom. In-situ monitoring of geometric drift and thermo-mechanical modeling toward a digital twin for thin-wall fused filament fabrication. Multifunctional Materials and Structures II. SPIE, 2026.",
+    "links": [
+      "https://doi.org/10.1117/12.3090447"
+    ],
+    "doi": "10.1117/12.3090447",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Killedara2026SituMonitoringGeometric.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "assets/images/papers/c10-geometric-drift-figure.webp",
+    "figure_caption": "Experimental images showing inward wall bending and interlayer debonding during thin-wall printing. From the accompanying presentation, slide 23.",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Killedar2026SituMonitoringGeometric_presentation.pdf#page=23",
+    "figure_page": 23,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Corrects inverted personal names and proceedings title against the author-hosted PDF and BibTeX."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c9",
+    "kind": "conference",
+    "year": "2025",
+    "title": "Impact monitoring of embedded batteries in sandwich composites with integrated soft elastomeric capacitors",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Han Liu, Simon Laflamme, and Subramani Sockalingam",
+    "venue": "Health Monitoring of Structural and Biological Systems XIX. SPIE, 2025.",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, Han Liu, Simon Laflamme, and Subramani Sockalingam. Impact monitoring of embedded batteries in sandwich composites with integrated soft elastomeric capacitors. Health Monitoring of Structural and Biological Systems XIX. SPIE, 2025.",
+    "links": [
+      "https://doi.org/10.1117/12.3051262"
+    ],
+    "doi": "10.1117/12.3051262",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2025ImpactMonitoringEmbedded.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2025ImpactMonitoringEmbedded.pdf",
+    "figure_page": 6,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "The official university paper and group bibliography list Sockalingam rather than Jian Li, different author order, and the Health Monitoring proceedings. The original volume 12949 and pages 267-274 were copied from c8 and do not match this 2025 paper."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c8",
+    "kind": "conference",
+    "year": "2024",
+    "title": "Performance evaluation of flexible capacitive sensors on non-uniform surfaces",
+    "authors": "Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl",
+    "venue": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024, volume 12949, pages 267-274. SPIE, 2024",
+    "citation": "Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Performance evaluation of flexible capacitive sensors on non-uniform surfaces. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024, volume 12949, pages 267-274. SPIE, 2024.",
+    "links": [
+      "https://doi.org/10.1117/12.3010959"
+    ],
+    "doi": "10.1117/12.3010959",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024PerformanceEvaluationFlexible.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024PerformanceEvaluationFlexible.pdf",
+    "figure_page": 4,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c7",
+    "kind": "conference",
+    "year": "2024",
+    "title": "Online model-based structural damage detection in electronic assemblies",
+    "authors": "Emmanuel A. Ogunniyi, Joud N. Satme, and Austin R. J. Downey",
+    "venue": "Active and Passive Smart Structures and Integrated Systems XVIII, volume 12946, pages 283-287. SPIE, 2024",
+    "citation": "Emmanuel A. Ogunniyi, Joud N. Satme, and Austin R. J. Downey. Online model-based structural damage detection in electronic assemblies. Active and Passive Smart Structures and Integrated Systems XVIII, volume 12946, pages 283-287. SPIE, 2024.",
+    "links": [
+      "https://doi.org/10.1117/12.3010987"
+    ],
+    "doi": "10.1117/12.3010987",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024OnlineModelBased.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024OnlineModelBased.pdf",
+    "figure_page": 3,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "The primary source does not use the suffix Jr. for Austin Downey."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c6",
+    "kind": "conference",
+    "year": "2024",
+    "title": "Exploratory investigation of early detection for high-c discharge-induced failure in 18650 lithium-ion batteries",
+    "authors": "George Anthony, Connor Madden, Emmanuel Ogunniyi, Austin R. J. Downey, Ryan Limbaugh, Jarrett Peskar, Jingjing Bao, and Xinyu Huang",
+    "venue": "Health Monitoring of Structural and Biological Systems XVIII, volume 12951, pages 135-139. SPIE, 2024",
+    "citation": "George Anthony, Connor Madden, Emmanuel Ogunniyi, Austin R. J. Downey, Ryan Limbaugh, Jarrett Peskar, Jingjing Bao, and Xinyu Huang. Exploratory investigation of early detection for high-c discharge-induced failure in 18650 lithium-ion batteries. Health Monitoring of Structural and Biological Systems XVIII, volume 12951, pages 135-139. SPIE, 2024.",
+    "links": [
+      "https://doi.org/10.1117/12.3011097"
+    ],
+    "doi": "10.1117/12.3011097",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Anthony2024ExploratoryInvestigationEarly.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Anthony2024ExploratoryInvestigationEarly.pdf",
+    "figure_page": 2,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "The PDF spells the given name Jarrett with two t letters."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c5",
+    "kind": "conference",
+    "year": "2023",
+    "title": "Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure",
+    "authors": "Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey",
+    "venue": "International Workshop on Structural Health Monitoring, 2023",
+    "citation": "Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey. Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure. International Workshop on Structural Health Monitoring, 2023.",
+    "links": [
+      "https://doi.org/10.12783/shm2023/36937"
+    ],
+    "doi": "10.12783/shm2023/36937",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2023MicrosecondModelUpdating.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2023MicrosecondModelUpdating.pdf",
+    "figure_page": 5,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c4",
+    "kind": "conference",
+    "year": "2023",
+    "title": "Optimal sampling methodologies for high-rate structural twinning",
+    "authors": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson",
+    "venue": "2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023",
+    "citation": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson. Optimal sampling methodologies for high-rate structural twinning. 2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023.",
+    "links": [
+      "https://doi.org/10.23919/FUSION52260.2023.10224187"
+    ],
+    "doi": "10.23919/FUSION52260.2023.10224187",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Vereen2023OptimalSamplingMethodologies.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Vereen2023OptimalSamplingMethodologies.pdf",
+    "figure_page": 2,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c3",
+    "kind": "conference",
+    "year": "2023",
+    "title": "Soft elastomeric capacitors with an extended polymer matrix for strain sensing on concrete",
+    "authors": "Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl",
+    "venue": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2023, volume 12486, pages 262-270. SPIE, 2023",
+    "citation": "Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Soft elastomeric capacitors with an extended polymer matrix for strain sensing on concrete. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2023, volume 12486, pages 262-270. SPIE, 2023.",
+    "links": [
+      "https://doi.org/10.1117/12.2658568"
+    ],
+    "doi": "10.1117/12.2658568",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2023SoftElastomericCapacitors.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2023SoftElastomericCapacitors.pdf",
+    "figure_page": 5,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c2",
+    "kind": "conference",
+    "year": "2023",
+    "title": "Online implementation of the local eigenvalue modification procedure for high-rate model assimilation",
+    "authors": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Jacob Dodson, Adriane G. Moura, and Jason D. Bakos",
+    "venue": "Society for Experimental Mechanics Annual Conference and Exposition, pages 121-127. Springer, 2023",
+    "citation": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Jacob Dodson, Adriane G. Moura, and Jason D. Bakos. Online implementation of the local eigenvalue modification procedure for high-rate model assimilation. Society for Experimental Mechanics Annual Conference and Exposition, pages 121-127. Springer, 2023.",
+    "links": [
+      "https://doi.org/10.1007/978-3-031-34942-3_15"
+    ],
+    "doi": "10.1007/978-3-031-34942-3_15",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Vereen2023OnlineImplementationLocal.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Vereen2023OnlineImplementationLocal.pdf",
+    "figure_page": 2,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "c1",
+    "kind": "conference",
+    "year": "2022",
+    "title": "Development of a real-time solver for the local eigenvalue modification procedure",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos",
+    "venue": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos. Development of a real-time solver for the local eigenvalue modification procedure. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022.",
+    "links": [
+      "https://doi.org/10.1117/12.2613208"
+    ],
+    "doi": "10.1117/12.2613208",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi_2022_Development_real-time.pdf",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi_2022_Development_real-time.pdf",
+    "figure_page": 12,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "p4",
+    "kind": "presentation",
+    "year": "2024",
+    "title": "Performance evaluation of flexible capacitive sensors on non-uniform surfaces",
+    "authors": "Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl",
+    "venue": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024. SPIE, 2024",
+    "citation": "Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Performance evaluation of flexible capacitive sensors on non-uniform surfaces. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024. SPIE, 2024.",
+    "links": [
+      "https://doi.org/10.1117/12.3010959"
+    ],
+    "doi": "10.1117/12.3010959",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024PerformanceEvaluationFlexible_presentation.pdf",
+    "pdf_label": "Presentation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024PerformanceEvaluationFlexible_presentation.pdf",
+    "figure_page": 18,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "The actual deck lists Han Liu before John White."
+    ],
+    "doi_label": "Paper DOI",
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "p3",
+    "kind": "presentation",
+    "year": "2024",
+    "title": "Online model-based structural damage detection in electronic assemblies",
+    "authors": "Emmanuel A. Ogunniyi, Joud Satme, and Austin R. J. Downey",
+    "venue": "Active and Passive Smart Structures and Integrated Systems XVIII. SPIE, 2024.",
+    "citation": "Emmanuel A. Ogunniyi, Joud Satme, and Austin R. J. Downey. Online model-based structural damage detection in electronic assemblies. Active and Passive Smart Structures and Integrated Systems XVIII. SPIE, 2024.",
+    "links": [
+      "https://doi.org/10.1117/12.3010987"
+    ],
+    "doi": "10.1117/12.3010987",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024OnlineModelBased_presentation.pdf",
+    "pdf_label": "Presentation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi2024OnlineModelBased_presentation.pdf",
+    "figure_page": 19,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "Presentation accompanies c7, which appears in these proceedings rather than Sensors and Smart Structures Technologies."
+    ],
+    "doi_label": "Paper DOI",
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "p2",
+    "kind": "presentation",
+    "year": "2023",
+    "title": "Optimal sampling methodologies for high-rate structural twinning",
+    "authors": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson",
+    "venue": "2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023",
+    "citation": "Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson. Optimal sampling methodologies for high-rate structural twinning. 2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023.",
+    "links": [
+      "https://doi.org/10.23919/FUSION52260.2023.10224187"
+    ],
+    "doi": "10.23919/FUSION52260.2023.10224187",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Vereen2023OptimalSamplingMethodologies_presentation.pdf",
+    "pdf_label": "Presentation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Vereen2023OptimalSamplingMethodologies_presentation.pdf",
+    "figure_page": 26,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "doi_label": "Paper DOI",
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "p1",
+    "kind": "presentation",
+    "year": "2022",
+    "title": "Development of a real-time solver for the local eigenvalue modification procedure",
+    "authors": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos",
+    "venue": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022",
+    "citation": "Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos. Development of a real-time solver for the local eigenvalue modification procedure. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022.",
+    "links": [
+      "https://doi.org/10.1117/12.2613208"
+    ],
+    "doi": "10.1117/12.2613208",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi_2022_Development_real-time_presentation.pdf",
+    "pdf_label": "Presentation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/conference/Ogunniyi_2022_Development_real-time_presentation.pdf",
+    "figure_page": 19,
+    "source_url": "https://cse.sc.edu/~adowney2/publications/publications.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "doi_label": "Paper DOI",
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "i2",
+    "kind": "presentation",
+    "year": "2023",
+    "title": "Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure",
+    "authors": "Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey",
+    "venue": "Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, September 5, 2023",
+    "citation": "Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey. Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure. Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, September 5, 2023.",
+    "links": [
+      "https://doi.org/10.12783/shm2023/36937"
+    ],
+    "doi": "10.12783/shm2023/36937",
+    "pdf_url": "https://cse.sc.edu/~adowney2/high_rate_working_group/meetings/presentations/Ogunniyi2023MicrosecondModelUpdating.pdf",
+    "pdf_label": "Presentation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/high_rate_working_group/meetings/presentations/Ogunniyi2023MicrosecondModelUpdating.pdf",
+    "figure_page": 29,
+    "source_url": "https://cse.sc.edu/~adowney2/high_rate_working_group/meetings/meetings.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "doi_label": "Paper DOI",
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "i1",
+    "kind": "presentation",
+    "year": "2025",
+    "title": "Reduced order model-based framework for microsecond model updating of two-dimensional structural systems using the local eigenvalue modification procedure",
+    "authors": "Emmanuel A. Ogunniyi",
+    "venue": "Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, April 15, 2025",
+    "citation": "Emmanuel A. Ogunniyi. Reduced order model-based framework for microsecond model updating of two-dimensional structural systems using the local eigenvalue modification procedure. Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, April 15, 2025.",
+    "links": [],
+    "doi": "",
+    "pdf_url": "",
+    "pdf_label": "Paper PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/high_rate_working_group/meetings/meetings.html",
+    "figure_page": null,
+    "source_url": "https://cse.sc.edu/~adowney2/high_rate_working_group/meetings/meetings.html",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available.",
+      "Exact public PDF could not be verified. Request PDF link uses the lab email.",
+      "The April 15, 2025 meeting listing has a different title. Supply the exact invited-talk PDF; the dissertation defense has not been substituted."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "t2",
+    "kind": "thesis",
+    "year": "2025",
+    "title": "Reduced Order Model-based Framework for Microsecond Model Updating of Two-Dimensional Structural Systems Using the Local Eigenvalue Modification Procedure",
+    "authors": "Emmanuel A. Ogunniyi",
+    "venue": "Ph.D. Dissertation, University of South Carolina, Columbia, 2025",
+    "citation": "Emmanuel A. Ogunniyi. Reduced Order Model-based Framework for Microsecond Model Updating of Two-Dimensional Structural Systems Using the Local Eigenvalue Modification Procedure. Ph.D. Dissertation, University of South Carolina, Columbia, 2025.",
+    "links": [],
+    "doi": "",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Dissertations/Ogunniyi2025ReducedOrderModel/Ogunniyi2025ReducedOrderModel.pdf",
+    "pdf_label": "Dissertation PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Dissertations/Ogunniyi2025ReducedOrderModel/Ogunniyi2025ReducedOrderModel.pdf",
+    "figure_page": 121,
+    "source_url": "https://scholarcommons.sc.edu/etd/8383/",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  },
+  {
+    "id": "t1",
+    "kind": "thesis",
+    "year": "2023",
+    "title": "Elastic Sensing Skin for Monitoring of Concrete Structures",
+    "authors": "Emmanuel A. Ogunniyi",
+    "venue": "M.Sc. Thesis, University of South Carolina, Columbia, 2023",
+    "citation": "Emmanuel A. Ogunniyi. Elastic Sensing Skin for Monitoring of Concrete Structures. M.Sc. Thesis, University of South Carolina, Columbia, 2023.",
+    "links": [],
+    "doi": "",
+    "pdf_url": "https://cse.sc.edu/~adowney2/publications/Theses/Ogunniyi2023ElasticSensingSkin/Ogunniyi2023ElasticSensingSkin.pdf",
+    "pdf_label": "Thesis PDF",
+    "figure": "",
+    "figure_caption": "",
+    "figure_source": "https://cse.sc.edu/~adowney2/publications/Theses/Ogunniyi2023ElasticSensingSkin/Ogunniyi2023ElasticSensingSkin.pdf",
+    "figure_page": 33,
+    "source_url": "https://scholarcommons.sc.edu/etd/7586/",
+    "notes": [
+      "Add a local figure image to display it inline. The website links to the source PDF figures where available."
+    ],
+    "verified_on": "2026-10-13"
+  }
+]

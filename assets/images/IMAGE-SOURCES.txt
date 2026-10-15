@@ -1,0 +1,47 @@
+iMAS LAB — IMAGE SOURCES
+
+1. assets/images/imas-manufacturing-hero.webp
+Original AI-generated editorial concept artwork created for this website.
+This represents the lab's research themes, not real lab equipment or measured data.
+Web derivative: 1536 × 1024 WebP.
+
+Generation brief:
+A refined, premium 3D editorial concept illustration for the Intelligent Manufacturing and Autonomous Systems Laboratory at SJSU. A believable six-axis industrial robotic arm fitted with a precision additive-manufacturing extruder is working on a layered continuous-fiber composite part on a manufacturing platform. Clear continuous stacked layers and a precise extruder tip close to the active deposition path. Thin restrained cyan sensing traces and small embedded sensing nodes on the part. A delicate ghosted wireframe digital-twin layer is aligned slightly above and beside the real part, visually echoing its geometry. Seamless dark navy studio background. Polished sculptural scientific editorial concept art, believable engineering forms. Landscape 1536 × 1024, wide asymmetrical composition. Robot and workpiece occupy central and right portions with breathing space at left. Entire important robot arm and platform visible. Dimensional studio lighting and warm white rim highlights on steel and silver. Deep navy #081a2b, steel gray, silver, restrained signal cyan #53e3d1. Brushed precision metal and dark composite material with distinctly readable fabrication layers. No text, labels, logos, watermarks, numerical readouts, fake data, or people. Not a photograph of real lab equipment and not a scientific result.
+
+2. assets/images/emmanuel-ogunniyi.jpg
+PI portrait supplied with the original website materials. Image unchanged.
+
+3. assets/images/papers/c10-geometric-drift-figure.webp
+Experimental photographs of inward wall bending and interlayer debonding.
+Extracted from slide 23 of the presentation accompanying:
+Killedar et al., In-situ monitoring of geometric drift and thermo-mechanical modeling toward a digital twin for thin-wall fused filament fabrication, SPIE, 2026.
+Source: https://cse.sc.edu/~adowney2/publications/conference/Killedar2026SituMonitoringGeometric_presentation.pdf#page=23
+The page caption identifies this as a presentation extract. Original figure ownership and rights are retained.
+
+4. Author-hosted journal previews
+The following images are linked from the coauthor's university publication archive rather than bundled locally. Their captions identify them as author-hosted figure previews. The source PDF is linked alongside each one. Original figure ownership and rights are retained.
+
+j8 — O(n) Local Eigenvalue Modification Procedure for real-time updating of structural digital twins with sub-millisecond-latency performance
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/Ogunniyi2026OnLocalEigenvalue.pdf
+
+j7 — In situ monitoring of impact-induced capacity loss in structural batteries with flexible electronics
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2025SituMonitoringImpact/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2025SituMonitoringImpact/Ogunniyi2025SituMonitoringImpact.pdf
+
+j6 — Simulation-in-the-loop additive manufacturing for real-time structural validation and digital twin development
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Fu2025SimulationLoopAdditive/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Fu2025SimulationLoopAdditive/Fu2025SimulationLoopAdditive.pdf
+
+j5 — In situ assembly enabling adhesive-free bonding of large area electronic sensors to concrete for structural health monitoring
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2024SituAssemblyEnabling/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2024SituAssemblyEnabling/Ogunniyi2024SituAssemblyEnabling.pdf
+
+j4 — Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023RealTimeStructural/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023RealTimeStructural/Ogunniyi2023RealTimeStructural.pdf
+
+j3 — Investigation of electrically isolated capacitive sensing skins on concrete to reduce structure/sensor capacitive coupling
+Image: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023InvestigationElectricallyIsolated/figure.jpg
+Source: https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2023InvestigationElectricallyIsolated/Ogunniyi2023InvestigationElectricallyIsolated.pdf
+

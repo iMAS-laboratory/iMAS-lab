@@ -1,0 +1,55 @@
+iMAS Lab — Publication references
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, and Yanzhou Fu. Multi-sensor data fusion for in-situ monitoring and quality control in additive manufacturing: A review. Preprint in review for submission.
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, Pete Avitabile, Jacob Dodson, and Adriane G. Moura. O(n) Local Eigenvalue Modification Procedure for real-time updating of structural digital twins with sub-millisecond-latency performance. Mechanical Systems and Signal Processing, 255:114451, 2026.
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, Subramani Sockalingam, Han Liu, and Simon Laflamme. In situ monitoring of impact-induced capacity loss in structural batteries with flexible electronics. Journal of Power Sources, 659:238417, 2025.
+
+Yanzhou Fu, Austin R. J. Downey, Lang Yuan, Hung-Tien Huang, and Emmanuel A. Ogunniyi. Simulation-in-the-loop additive manufacturing for real-time structural validation and digital twin development. Additive Manufacturing, 98:104631, 2025.
+
+Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. In situ assembly enabling adhesive-free bonding of large area electronic sensors to concrete for structural health monitoring. Smart Materials and Structures, 33(10):105047, 2024.
+
+Emmanuel A. Ogunniyi, Claire Drnek, Seong Hyeon Hong, Austin R. J. Downey, Yi Wang, Jason D. Bakos, Peter Avitabile, and Jacob Dodson. Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events. Mechanical Systems and Signal Processing, 195:110318, 2023.
+
+Emmanuel A. Ogunniyi, Alexander Vereen, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline R. Bennett, William Collins, Hongki Jo, Alexander Henderson, and Paul Ziehl. Investigation of electrically isolated capacitive sensing skins on concrete to reduce structure/sensor capacitive coupling. Measurement Science and Technology, 34(5):055113, 2023.
+
+Adeniyi John Adedoyin, Ogunniyi Emmanuel Abiodun, and Okafor Ifeanyichukwu Frank. Biodiesel production from palm oil using heterogeneous base catalyst. International Journal of Scientific Research in Science, Engineering and Technology, 6(6):80–90, 2019.
+
+Adekoya Oluwaseun Abiodun, Oluwajire Oluwatimilehin Ebenezer, and Ogunniyi Emmanuel Abiodun. Design, modeling and fabrication of a portable solar powered suction pump for use in industries and autoclinics. International Journal of Scientific Research in Science, Engineering and Technology, 6(5):287–297, 2019.
+
+Digambar Killedar, Emmanuel Ogunniyi, Yanzhou Fu, Austin Downey, Lang Yuan, and Matthew D. Folsom. In-situ monitoring of geometric drift and thermo-mechanical modeling toward a digital twin for thin-wall fused filament fabrication. Multifunctional Materials and Structures II. SPIE, 2026.
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, Han Liu, Simon Laflamme, and Subramani Sockalingam. Impact monitoring of embedded batteries in sandwich composites with integrated soft elastomeric capacitors. Health Monitoring of Structural and Biological Systems XIX. SPIE, 2025.
+
+Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Performance evaluation of flexible capacitive sensors on non-uniform surfaces. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024, volume 12949, pages 267-274. SPIE, 2024.
+
+Emmanuel A. Ogunniyi, Joud N. Satme, and Austin R. J. Downey. Online model-based structural damage detection in electronic assemblies. Active and Passive Smart Structures and Integrated Systems XVIII, volume 12946, pages 283-287. SPIE, 2024.
+
+George Anthony, Connor Madden, Emmanuel Ogunniyi, Austin R. J. Downey, Ryan Limbaugh, Jarrett Peskar, Jingjing Bao, and Xinyu Huang. Exploratory investigation of early detection for high-c discharge-induced failure in 18650 lithium-ion batteries. Health Monitoring of Structural and Biological Systems XVIII, volume 12951, pages 135-139. SPIE, 2024.
+
+Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey. Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure. International Workshop on Structural Health Monitoring, 2023.
+
+Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson. Optimal sampling methodologies for high-rate structural twinning. 2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023.
+
+Emmanuel A. Ogunniyi, Han Liu, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Soft elastomeric capacitors with an extended polymer matrix for strain sensing on concrete. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2023, volume 12486, pages 262-270. SPIE, 2023.
+
+Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Jacob Dodson, Adriane G. Moura, and Jason D. Bakos. Online implementation of the local eigenvalue modification procedure for high-rate model assimilation. Society for Experimental Mechanics Annual Conference and Exposition, pages 121-127. Springer, 2023.
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos. Development of a real-time solver for the local eigenvalue modification procedure. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022.
+
+Emmanuel A. Ogunniyi, Han Liu, John White, Austin R. J. Downey, Simon Laflamme, Jian Li, Caroline Bennett, William Collins, Hongki Jo, and Paul Ziehl. Performance evaluation of flexible capacitive sensors on non-uniform surfaces. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024. SPIE, 2024.
+
+Emmanuel A. Ogunniyi, Joud Satme, and Austin R. J. Downey. Online model-based structural damage detection in electronic assemblies. Active and Passive Smart Structures and Integrated Systems XVIII. SPIE, 2024.
+
+Alexander B. Vereen, Emmanuel A. Ogunniyi, Austin R. J. Downey, Erik Blasch, Jason D. Bakos, and Jacob Dodson. Optimal sampling methodologies for high-rate structural twinning. 2023 26th International Conference on Information Fusion (FUSION), pages 1-8. IEEE, 2023.
+
+Emmanuel A. Ogunniyi, Austin R. J. Downey, and Jason D. Bakos. Development of a real-time solver for the local eigenvalue modification procedure. Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2022. SPIE, 2022.
+
+Emmanuel A. Ogunniyi, Alexander B. Vereen, and Austin R. J. Downey. Microsecond model updating for 2D structural systems using the local eigenvalue modification procedure. Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, September 5, 2023.
+
+Emmanuel A. Ogunniyi. Reduced order model-based framework for microsecond model updating of two-dimensional structural systems using the local eigenvalue modification procedure. Invited presentation, High-rate Structural Monitoring, Damage Detection, Prognostics, and Reactions Working Group, April 15, 2025.
+
+Emmanuel A. Ogunniyi. Reduced Order Model-based Framework for Microsecond Model Updating of Two-Dimensional Structural Systems Using the Local Eigenvalue Modification Procedure. Ph.D. Dissertation, University of South Carolina, Columbia, 2025.
+
+Emmanuel A. Ogunniyi. Elastic Sensing Skin for Monitoring of Concrete Structures. M.Sc. Thesis, University of South Carolina, Columbia, 2023.
