@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Intelligent Manufacturing and Autonomous Systems Laboratory | iMAS Lab · San José State University</title>
+  <meta name="description" content="At San José State University, iMAS Lab develops sensing, digital twins, and feedback control for advanced manufacturing.">
+  <meta name="theme-color" content="#0c263b">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="iMAS Lab">
+  <meta property="og:title" content="Intelligent Manufacturing and Autonomous Systems Laboratory | iMAS Lab · San José State University">
+  <meta property="og:description" content="At San José State University, iMAS Lab develops sensing, digital twins, and feedback control for advanced manufacturing.">
+  <link rel="icon" type="image/png" href="assets/images/imas-lab.png">
+  <link rel="preload" as="font" type="font/woff2" href="assets/fonts/barlow-semi-condensed-600.woff2" crossorigin>
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    .home-hero {
+      display: block;
+      background: var(--navy);
+    }
+    .home-hero .hero-copy {
+      padding: clamp(2.75rem, 5vw, 5.25rem) 0 clamp(3rem, 5.5vw, 5.75rem);
+    }
+    .home-hero h1 {
+      font-size: clamp(2.65rem, 6.2vw, 5.75rem);
+      line-height: 1.02;
+      text-wrap: balance;
+    }
+    .home-hero h1 span { display: inline; }
+    .home-hero .hero-summary { max-width: 65ch; }
+    @media (max-width: 24rem) {
+      .home-hero h1 { font-size: clamp(2.25rem, 11vw, 2.65rem); }
+    }
+  </style>
+  <script src="js/main.js" defer></script>
+</head>
+<body class="page-index">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="site-header">
+    <div class="university-band">
+      <div class="wrap institution">
+        <a href="https://www.sjsu.edu/" class="sjsu-top"><img src="assets/images/sjsu-wordmark-white.png" width="500" height="39" alt="San José State University"></a>
+        <a class="department-link" href="https://www.sjsu.edu/me/">Department of Mechanical Engineering</a>
+      </div>
+    </div>
+    <div class="wrap nav-row">
+      <a class="lab-mark" href="index.html" aria-label="iMAS Lab home"><img src="assets/images/imas-lab.png" width="188" height="191" alt="iMAS Lab"></a>
+      <button class="menu-toggle" type="button" aria-controls="main-navigation" aria-expanded="false">Menu</button>
+      <nav id="main-navigation" aria-label="Main navigation">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="research.html">Research</a>
+        <a href="publications.html">Publications</a>
+        <a href="people.html">People</a>
+        <a href="resources.html">Resources</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main-content" tabindex="-1">
+    <section class="home-hero" aria-labelledby="lab-title">
+      <div class="wrap hero-copy">
+        <p class="location">San José, California</p>
+        <h1 id="lab-title">Intelligent Manufacturing and Autonomous Systems <span>Laboratory</span></h1>
+        <p class="hero-summary">We study how sensors, digital twins, and feedback control can improve the way parts are made and machines operate.</p>
+        <div class="hero-actions"><a class="button button-accent" href="research.html">Explore research</a><a class="light-link" href="people.html">Meet the lab</a></div>
+      </div>
+    </section>
+    <section class="home-contact" aria-labelledby="work-with-us">
+      <div class="wrap inquiry-strip">
+        <h2 id="work-with-us">Work with iMAS Lab</h2>
+        <div class="strip-links"><a class="text-link" href="contact.html#students">Student research</a><a class="text-link" href="contact.html#collaborators">Research collaborations</a></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-main">
+      <div class="footer-lab"><a class="footer-name" href="index.html">iMAS Lab</a><p>Intelligent Manufacturing and Autonomous Systems Laboratory</p></div>
+      <div class="footer-university"><a href="https://www.sjsu.edu/"><img src="assets/images/sjsu-primary.png" width="500" height="94" alt="San José State University"></a></div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>© <span data-current-year>2026</span> iMAS Lab</p>
+      <nav aria-label="Footer"><a href="contact.html">Contact</a></nav>
+    </div>
+  </footer>
+  
+</body>
+</html>
