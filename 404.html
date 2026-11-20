@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Page not found | iMAS Lab</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #0c263b; color: #fff; font: 1rem/1.5 system-ui, sans-serif; }
+    main { max-width: 56rem; margin: 12vh auto; padding: 2rem; }
+    strong { color: #ffc083; }
+    h1 { margin: .6rem 0; font-size: clamp(2.6rem, 6vw, 4.6rem); line-height: 1.05; }
+    a { color: #fff; text-underline-offset: .22em; }
+    a:focus-visible { outline: 3px solid #ffc083; outline-offset: 4px; }
+  </style>
+</head>
+<body>
+  <main>
+    <strong>iMAS Lab · 404</strong>
+    <h1>Page not found</h1>
+    <p><a id="home-link" href="https://imas-laboratory.github.io/iMAS-lab/index.html">Return to the lab homepage</a></p>
+  </main>
+  <script>
+    // Locate the site root even when GitHub Pages serves this file for a nested URL.
+    (async function () {
+      const home = document.getElementById("home-link");
+      if (location.protocol === "file:") {
+        home.href = "index.html";
+        return;
+      }
+      const parts = location.pathname.split("/").filter(Boolean);
+      for (let i = parts.length - 1; i >= 0; i--) {
+        const base = "/" + (i ? parts.slice(0, i).join("/") + "/" : "");
+        try {
+          const response = await fetch(base + "site-marker.json", {cache: "no-store"});
+          if (response.ok && (await response.json()).site === "imas-lab") {
+            home.href = base + "index.html";
+            return;
+          }
+        } catch { /* A higher-level directory may contain the marker. */ }
+      }
+    })();
+  </script>
+</body>
+</html>

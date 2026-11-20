@@ -1,0 +1,58 @@
+iMAS Lab — image sources
+
+robotic-welding.webp
+Robotic spot welding at BMW’s Leipzig plant
+BMW Werk Leipzig
+https://commons.wikimedia.org/wiki/File:BMW_Leipzig_MEDIA_050719_Download_Karosseriebau_max.jpg
+CC BY-SA 2.0 DE https://creativecommons.org/licenses/by-sa/2.0/de/
+Resized and converted to WebP. The page crops the image to the viewing area.
+
+process-monitoring.webp
+Powder bed fusion
+Lane/NIST
+https://www.nist.gov/image/powder-bed-fusion
+U.S. government work; public domain in the United States https://www.nist.gov/copyrights-disclaimers
+Converted to WebP. The layout may crop the displayed photograph.
+
+flexible-electronics.webp
+Miraco Flex
+Billpnh
+https://commons.wikimedia.org/wiki/File:Miraco_Flex.pdf
+CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Photograph extracted from the original one-page PDF, resized for the web, and encoded as WebP.
+
+digital-twins.webp
+Digital twin updating framework (Figure 1)
+Emmanuel A. Ogunniyi, Austin R. J. Downey, Pete Avitabile, Jacob Dodson, and Adriane G. Moura
+https://cse.sc.edu/~adowney2/publications/Journal_publications/Ogunniyi2026OnLocalEigenvalue/Ogunniyi2026OnLocalEigenvalue.pdf#page=2
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Complete Figure 1 extracted from the open-access paper, resized, and converted to WebP.
+
+high-rate-spectrogram.webp
+Frequency content of the DROPBEAR acceleration signal
+Dataset by Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegrell
+https://github.com/High-Rate-SHM-Working-Group/Dataset-2-DROPBEAR-Acceleration-vs-Roller-Displacement/blob/main/data/DROPBEAR_dataset.json
+CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+New spectrogram of the source acceleration signal, sampled at 25.6 kHz, with an 8192-point Hann window, 7168-point overlap, and power spectral density (PSD) in dB relative to the largest PSD in the displayed frequency band. Display spans 0–800 Hz and clips the color scale at −55 dB. Adapted graphic licensed CC BY-SA 4.0.
+
+robotics-control.webp
+NIST Dexterous Manipulation Testbed
+Falco/NIST
+https://commons.wikimedia.org/wiki/File:NIST_Dexterous_Manipulation_Testbed_(9502902636).jpg
+U.S. government work; public domain in the United States https://www.nist.gov/copyrights-disclaimers
+Resized and converted to WebP. The layout may crop the displayed photograph.
+
+battery-sensing.webp
+Lithium-ion coin cell batteries in laboratory testing fixture
+Chingo K
+https://commons.wikimedia.org/wiki/File:Lithium-ion_coin_cell_batteries_in_laboratory_testing_fixture.jpg
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Resized and encoded as WebP from the Wikimedia-distributed photograph.
+
+Identity
+imas-lab.png: supplied iMAS Lab artwork, extracted from the annotated brief.
+emmanuel-ogunniyi.webp: supplied portrait of Emmanuel A. Ogunniyi, resized for the web.
+sjsu-wordmark-white.png and sjsu-primary.png: official artwork from San José State University.
+https://www.sjsu.edu/communications/brand/visual-style/university-marks/index.php
+
+Individual publication-figure credits, source links, and licenses are in credits.html and data/publications.json.
